@@ -9,13 +9,13 @@ Data analyst is someone who collects, transforms, and organizes data in order to
 
 **Data science**, the discipline of making data useful, is an umbrella term that encompasses three disciplines: **machine learning, statistics, and analytics**. 
 
--If you want to make a few important decisions under uncertainty, that is statistics. The excellence of statistics is rigor. Statisticians are essentially philosophers,
+- If you want to make a few important decisions under uncertainty, that is statistics. The excellence of statistics is rigor. Statisticians are essentially philosophers,
 epistemologists. They are very, very careful about protecting decision-makers from coming to the wrong conclusion.
 
--If you want to automate, in other words, make many, many, many decisions under uncertainty, that is machine learning and AI. Performance is the excellence of the 
+- If you want to automate, in other words, make many, many, many decisions under uncertainty, that is machine learning and AI. Performance is the excellence of the 
 machine learning and AI engineer.
 
--But what if you don't know how many decisions you want to make before you begin? What if what you're looking for is inspiration? You want to encounter your unknown 
+- But what if you don't know how many decisions you want to make before you begin? What if what you're looking for is inspiration? You want to encounter your unknown 
 unknowns. You want to understand your world. That is analytics. The excellence of an analyst is speed. How quickly can you surf through vast amounts of data to explore
 it and discover the gems, the beautiful potential insights that are worth knowing about and bringing to your decision-makers? 
 
@@ -35,7 +35,7 @@ Data analytics in the simplest terms is the science of data. It's a very broad c
 tools and methods that data workers use each and every day.
 It's important to understand that data, data analysis and data ecosystem fit under the data analytics umbrella.
 
-### Data-driven Decision Making
+### Data-driven Decision-making
 Data-driven decision-making is defined as using facts to guide business strategy. It gives you greater confidence about your choice and your abilities to address
 business challenges. It helps you become more proactive when an opportunity presents itself, and it saves you time and effort when working towards a goal. The first 
 step in data-driven decision-making is figuring out the business need. 
@@ -44,12 +44,12 @@ observation, and sometimes even intuition. To get the most out of data-driven de
 with the business problem.
 
 ### The six steps of the data analysis process:
--Ask questions and define the problem.
--Prepare data by collecting and storing the information.
--Process data by cleaning and checking the information.
--Analyze data to find patterns, relationships, and trends.
--Share data with your audience.
--Act on the data and use the analysis results.
+- Ask questions and define the problem.
+- Prepare data by collecting and storing the information.
+- Process data by cleaning and checking the information.
+- Analyze data to find patterns, relationships, and trends.
+- Share data with your audience.
+- Act on the data and use the analysis results.
 
 ### Gut Instinct
 Gut instinct is an intuitive understanding of something with little or no explanation. This isn’t always something conscious; we often pick up on signals without 
