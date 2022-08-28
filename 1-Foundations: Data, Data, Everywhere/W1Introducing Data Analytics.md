@@ -77,7 +77,6 @@ fundamentals in every data analysis process.
 6.	Operationalize
 
 ## SAS's iterative life cycle
-Ask
 1.	Ask
 2.	Prepare
 3.	Explore
@@ -105,5 +104,5 @@ Ask
 9.	Utilization of analysis results
 
 
-# Glossary
+## Glossary
 https://docs.google.com/document/d/1yd3IZr2VupqaTPyjrlauxDLj4MsDHl9r9J3wmNf11mE/template/preview 
