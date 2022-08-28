@@ -1,10 +1,10 @@
-### Data
+## Data
 Data is a collection of facts. This collection can include numbers, pictures, videos, words, measurements, observations, and more. 
 
-### Data Analysis 
+## Data Analysis 
 Data analysis is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making.
 
-### Data Analyst
+## Data Analyst
 Data analyst is someone who collects, transforms, and organizes data in order to help make informed decisions.
 
 **Data science**, the discipline of making data useful, is an umbrella term that encompasses three disciplines: **machine learning, statistics, and analytics**. 
@@ -19,23 +19,23 @@ machine learning and AI engineer.
 unknowns. You want to understand your world. That is analytics. The excellence of an analyst is speed. How quickly can you surf through vast amounts of data to explore
 it and discover the gems, the beautiful potential insights that are worth knowing about and bringing to your decision-makers? 
 
-### Data Ecosystem
+## Data Ecosystem
 An ecosystem is a group of elements that interact with one another. 
 Data ecosystems are made up of various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data. These elements 
 include hardware and software tools, and the people who use them.
 Let's think about a data ecosystem used by a human resources department. This ecosystem would include information like postings from job websites, stats on the 
 current labor market, employment rates, and social media data on prospective employees.
 
-### Data Science 
+## Data Science 
 Data science is defined as creating new ways of modeling and understanding the unknown by using raw data. 
 Data scientists create new questions using data, while analysts find answers to existing questions by creating insights from data sources. 
 
-### Data Analytics
+## Data Analytics
 Data analytics in the simplest terms is the science of data. It's a very broad concept that encompasses everything from the job of managing and using data to the 
 tools and methods that data workers use each and every day.
 It's important to understand that data, data analysis and data ecosystem fit under the data analytics umbrella.
 
-### Data-driven Decision-making
+## Data-driven Decision-making
 Data-driven decision-making is defined as using facts to guide business strategy. It gives you greater confidence about your choice and your abilities to address
 business challenges. It helps you become more proactive when an opportunity presents itself, and it saves you time and effort when working towards a goal. The first 
 step in data-driven decision-making is figuring out the business need. 
@@ -51,7 +51,7 @@ with the business problem.
 - Share data with your audience.
 - Act on the data and use the analysis results.
 
-### Gut Instinct
+## Gut Instinct
 Gut instinct is an intuitive understanding of something with little or no explanation. This isn’t always something conscious; we often pick up on signals without 
 even realizing. You just have a “feeling” it’s right. Decisions based on gut instinct without any data to back them up can cause mistakes.
 
@@ -60,7 +60,7 @@ even realizing. You just have a “feeling” it’s right. Decisions based on g
 Blending data with business knowledge, plus maybe a touch of gut instinct, will be a common part of your process as a junior data analyst. The key is figuring out 
 the exact mix for each particular project. A lot of times, it will depend on the goals of your analysis.
 
-### Data Analysis Life Cycle
+## Data Analysis Life Cycle
 The process of going from data to decision.
 
 Data goes through several phases as it gets created, consumed, tested, processed, and reused. With a life cycle model, all key team members can drive success by 
@@ -68,7 +68,7 @@ planning work both up front and at the end of the data analysis process. While t
 defined structure of those phases. There might not be one single architecture that’s uniformly followed by every data analysis expert, but there are some shared 
 fundamentals in every data analysis process.
 
-## EMC Corporation's data analytics life cycle
+### EMC Corporation's data analytics life cycle
 1.	Discovery
 2.	Pre-processing data
 3.	Model planning
@@ -76,7 +76,7 @@ fundamentals in every data analysis process.
 5.	Communicate results
 6.	Operationalize
 
-## SAS's iterative life cycle
+### SAS's iterative life cycle
 1.	Ask
 2.	Prepare
 3.	Explore
@@ -85,14 +85,14 @@ fundamentals in every data analysis process.
 6.	Act
 7.	Evaluate
 
-## Project-based data analytics life cycle 
+### Project-based data analytics life cycle 
 1.	Identifying the problem
 2.	Designing data requirements
 3.	Pre-processing data
 4.	Performing data analysis
 5.	Visualizing data
 
-## Big data analytics life cycle
+### Big data analytics life cycle
 1.	Business case evaluation
 2.	Data identification
 3.	Data acquisition and filtering
