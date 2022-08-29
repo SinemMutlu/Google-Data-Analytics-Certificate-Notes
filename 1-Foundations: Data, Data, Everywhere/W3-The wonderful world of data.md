@@ -28,5 +28,6 @@
   Remove data from storage and delete any shared copies of the data.
   
 ------
-#### **Stakeholders:**  People who have invested time and resources into a project and are interested in the outcome.
+#### Stakeholders
+People who have invested time and resources into a project and are interested in the outcome.
 ------
