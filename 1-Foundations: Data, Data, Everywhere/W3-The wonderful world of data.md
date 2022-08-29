@@ -2,28 +2,28 @@
 
 ## The life cycle of data: 
 
-- **Plan** 
+1- **Plan** 
  
   Decide what kind of data is needed, how it will be managed, and who will be responsible for it.
   
-- **Capture** 
+2- **Capture** 
 
   Collect or bring in data from a variety of different sources.
    - **Database:** Database is a collection of data stored in a computer system.
   
-- **Manage**
+3- **Manage**
 
   Care for and maintain the data. This includes determining how and where it is stored and the tools used to do so. This phase is very important to data cleansing.
 
-- **Analyze**
+4- **Analyze**
 
   Use the data to solve problems, make decisions, and support business goals.
 
-- **Archive**
+5- **Archive**
 
   Keep relevant data stored for long-term and future reference.
 
-- **Destroy**
+6- **Destroy**
   Remove data from storage and delete any shared copies of the data.
 This is important for protecting a company's private information.
 
