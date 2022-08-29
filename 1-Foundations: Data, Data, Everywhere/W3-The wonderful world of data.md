@@ -2,9 +2,7 @@
 
 ## The life cycle of data: 
 
-1- **Plan** 
- 
-  Decide what kind of data is needed, how it will be managed, and who will be responsible for it.
+1- **Plan** : Decide what kind of data is needed, how it will be managed, and who will be responsible for it.
   
 2- **Capture** 
 
