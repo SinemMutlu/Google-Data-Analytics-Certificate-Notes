@@ -24,8 +24,12 @@
   Keep relevant data stored for long-term and future reference.
 
 6- **Destroy**
-  Remove data from storage and delete any shared copies of the data.
-This is important for protecting a company's private information.
 
-**Stakeholders: **
-People who have invested time and resources into a project and are interested in the outcome.
+  Remove data from storage and delete any shared copies of the data.
+  
+
+**Stakeholders:** People who have invested time and resources into a project and are interested in the outcome.
+
+a <br />
+b <br />
+c
