@@ -62,6 +62,11 @@ Data analysts use a number of visualization tools, like graphs, maps, tables, ch
 
 A career as a data analyst also involves using programming languages, like R and Python, which are used a lot for statistical analysis, visualization, and other data analysis.
 
+---
+
 Spreadsheets and databases both offer ways to store, manage, and use data. The basic content for both tools are sets of values. Yet, there are some key differences, too:
 
+![spreadsheet-database](https://user-images.githubusercontent.com/52907747/188478965-063505a2-c9cf-455a-bdf7-9d8dd281ca24.png)
+
+---
 
