@@ -70,3 +70,5 @@ Spreadsheets and databases both offer ways to store, manage, and use data. The b
 
 ---
 
+# Glossary
+https://docs.google.com/document/d/1HlHJkeCHI2_-dXYhZxacyFpsmFGt49HehhYaZgx-05M/template/preview?resourcekey=0-CX2FbmmO0dgLoD3O0kp1Tw
