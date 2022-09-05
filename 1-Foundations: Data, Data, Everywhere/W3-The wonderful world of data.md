@@ -27,11 +27,11 @@ Data analysts rely on spreadsheets to collect and organize data. Two popular spr
 
 Spreadsheets structure data in a meaningful way by letting you 
 
-  -Collect, store, organize, and sort information
+  - Collect, store, organize, and sort information
 
-  -Identify patterns and piece the data together in a way that works for each specific data project
+  - Identify patterns and piece the data together in a way that works for each specific data project
 
-  -Create excellent data visualizations, like graphs and charts. 
+  - Create excellent data visualizations, like graphs and charts. 
 
 ## Databases and query languages
 
@@ -39,22 +39,22 @@ A database is a collection of structured data stored in a computer system. Some 
 
 ### Query languages 
 
--Allow analysts to isolate specific information from a database(s)
+- Allow analysts to isolate specific information from a database(s)
 
--Make it easier for you to learn and understand the requests made to databases
+- Make it easier for you to learn and understand the requests made to databases
 
--Allow analysts to select, create, add, or download data from a database for analysis
+- Allow analysts to select, create, add, or download data from a database for analysis
 
 ## Visualization tools
 Data analysts use a number of visualization tools, like graphs, maps, tables, charts, and more. Two popular visualization tools are Tableau and Looker.
 
 ### These tools 
 
--Turn complex numbers into a story that people can understand 
+- Turn complex numbers into a story that people can understand 
 
--Help stakeholders come up with conclusions that lead to informed decisions and effective business strategies  
+- Help stakeholders come up with conclusions that lead to informed decisions and effective business strategies  
 
--Have multiple features 
+- Have multiple features 
 
              - Tableau's simple drag-and-drop feature lets users create interactive graphs in dashboards and worksheets 
 
