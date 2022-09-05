@@ -19,7 +19,7 @@
 
 ---
 
-# Key Data Analyst Tools
+# Key data analyst tools
 
 ## Spreadsheets
 
